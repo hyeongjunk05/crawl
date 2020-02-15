@@ -24,4 +24,4 @@ for items in zip(rank, song, singer):
     )
 
 for row in music_chart:
-    print(row['rank'],'/...' , row['song'],'/...' ,row['singer'])
+    print(row['rank'],'/....' , row['song'],'/....' ,row['singer'])
